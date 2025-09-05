@@ -50,6 +50,12 @@ This notebook will dump everything into an Excel file with _most_ of the needed 
 
 Dumping files supports two modes via the `punish` and `shuffled` variables. `punish` is for our experiments on the distinction between learning and comprehension + learning. Punish the model to get comprehension + learning. `shuffled` is what it says: output the shuffled subsets instead of the unshuffled subsets. This one isn't very interesting.
 
+## Citation
+
+```
+TBA
+```
+
 ## Licence
 
 MIT for all code. The word set from Saparov and He used in word salad is [Apache-2.0](https://github.com/asaparov/prontoqa). 
