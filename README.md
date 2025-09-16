@@ -1,7 +1,8 @@
 # Is In-Context Learning Learning?
 
-Code for the paper Is In-Context Learning Learning?
+Code to reproduce the results from the paper Is In-Context Learning Learning?
 
+>Note: this is a very expensive experiment to run. If at all possible, please avoid running the full suite of experiments. Do [consider](https://mlco2.github.io/impact/#compute) [the](https://llmemissions.com/) environmental impact of it before running this code.
 
 ## Outline
 
@@ -53,7 +54,7 @@ Dumping files supports two modes via the `punish` and `shuffled` variables. `pun
 ## Citation
 
 ```
-TBA
+anonymised
 ```
 
 ## Licence
